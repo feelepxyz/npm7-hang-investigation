@@ -1,0 +1,16 @@
+{
+  "name": "npm7-hang-investigation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "install.js",
+  "dependencies": {
+    "@npmcli/arborist": "^2.1.0",
+    "npm": "^7.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node install.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
