@@ -8,6 +8,12 @@ node install.js
 
 Errors with the same output with increasingly nested `--cache`.
 
+## shelling out to npm cli
+
+```
+node exec.js
+```
+
 ## using npm cli
 
 Running with npm cli (v7.5) errors after a few seconds as expected:
